@@ -1,8 +1,8 @@
 <h1> SpellChecker </h1>
 <p> 
-This is the initial functional spell checker program that checks for spelling errors in an inputed sentence using Python.
+This is the first version of a spell checker program that checks for spelling errors in an inputed sentence using Python.
 This is just a random program I wrote to apply some of the concepts that I have learned in Python. A more sophisticated version of the program
-would be designed soon. 
+would be designed and uploaded. 
 </p>
 
 <h2>Usage</h2>
